@@ -23,8 +23,8 @@ For the full stack breakdown, check out the [stacks page on my site](https://pol
 
 ## GitHub stats
 
-+![GitHub stats](https://github-readme-stats-rickstaa.vercel.app/api?username=polter-dev&show_icons=true&theme=default&hide_border=true)
-+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=polter-dev&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats-rickstaa.vercel.app/api?username=polter-dev&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=polter-dev&layout=compact&hide_border=true)
 
 ## A few random facts about me
 
