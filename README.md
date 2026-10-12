@@ -1,8 +1,8 @@
 # Hey, I'm Marcus 👋
 
-I'm a Senior at UCF, and I'm planning to enroll in Georgia Tech's Master's program with a specialization in Machine Learning.
+I'm a Senior at UCF, and I'm planning to enroll in Grad program!
 
-What pulled me into ML/AI in the first place is how math-driven it all is, there's something really satisfying about watching pure math turn into something a computer can actually *do*. I'm especially drawn to the storytelling side of data: the idea that the same numbers can tell completely different stories depending on who's looking at them. Getting to spend more time in that world, digging into the math and the meaning behind it, sounds like a lot of fun to me. I've also got a growing interest in software engineering on the side.
+What pulled me into ML/AI in the first place is how math-driven it all is, there's something really satisfying about watching pure math turn into something a computer can actually *do*. I'm especially drawn to the storytelling side of data: the idea that the same numbers can tell completely different stories depending on who's looking at them. Getting to spend more time in that world, digging into the math and the meaning behind it interests me a lot. I've got an interest in software engineering on the side as I learn more about the AI world.
 
 ## What I work with
 
